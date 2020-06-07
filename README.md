@@ -6,4 +6,4 @@ User needs to specify member details in addition to how much money he deposited.
 \
 Java and Java Swing were used to made this.\
 \
-[Executable File:](https://github.com/ornob011/Mess_Meal_Management/blob/master/Mess/dist/Mess.jar)
+[Executable File](https://github.com/ornob011/Mess_Meal_Management/blob/master/Mess/dist/Mess.jar)
