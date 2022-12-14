@@ -2,6 +2,7 @@ package mess;
 import static java.lang.Math.floor;
 import javax.swing.JOptionPane;
 
+@SuppressWarnings("serial")
 public class AddNewMember extends javax.swing.JFrame 
 {
     int MEMBER_AMOUNT, i=0;
